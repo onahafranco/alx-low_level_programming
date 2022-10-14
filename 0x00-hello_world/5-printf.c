@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main Emtry
+ * main - Entry
  * Description - "pracicing C with prinf"
- * Return 0 (always succeccful)
+ * Return: Alway 0
  */
 int main(void)
 {
