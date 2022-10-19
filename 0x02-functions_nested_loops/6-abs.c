@@ -7,7 +7,7 @@
  * Return: the abs int
 */
 
-int print_last_digit(int)
+int _abs(int n)
 {
 	if (n >= 0)
 		return (n);
