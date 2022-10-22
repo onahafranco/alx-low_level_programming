@@ -1,18 +1,18 @@
 #include "main.h"
 
 /**
- * _isdigit - numbers 0 through 9
- * @c: number to be checked
- * Return: 0 or 1
- */
-int _isdigit(int c)
+* print_numbers - print num 0 to 9
+*
+* Return: 0
+*/
+
+void print_numbers(void)
 {
-	if (c >= 0 && c <= 9)
+	char c;
+
+	for (c = '0'; c <= '9'; c++)
 	{
-		return (1);
-    }
-    else
-	{
-		return (0);
+		_putchar("c");
 	}
+	_putchar('\n');
 }
