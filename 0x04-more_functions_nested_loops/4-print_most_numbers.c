@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-*print_most_numbers - prints
-* owned by Bwave ICT
+*print_most_numbers - numbers
+* Description: printing numbers from 1-9 excluding 2 & 4
 *Return: void
 */
 
